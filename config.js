@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Eventually', // <title>
+  siteTitle: 'Hostel Egg', // <title>
   manifestName: 'Eventually',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Eventually',
   subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
+    "Coming very soon...",
   socialLinks: [
     {
       icon: 'fa-github',
