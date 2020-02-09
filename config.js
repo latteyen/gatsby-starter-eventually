@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Hostel Egg',
+  heading: 'Hostelegg.com - For Sale',
   subHeading:
-    "Coming very soon...",
+    "Contact phil.savage84@gmail.com",
   socialLinks: [
     {
       icon: 'fa-github',
